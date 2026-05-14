@@ -1,0 +1,30 @@
+
+Admin
+*   **Username:** `admin1`
+*   **Password:** `admin123`
+*   **Person ID:** STAFF-002
+
+Custodian
+*   **Username:** `custodian1`
+*   **Password:** `test`
+*   **Person ID:** STAFF-001
+
+Borrowers (Students/Faculty)
+*   **Username:** `santos_mc`
+*   **Password:** `123`
+*   **Person ID:** 2021-00001
+*   *(Has the most borrow history and requests in the DB)*
+
+---
+Other Borrower Accounts
+*   **Username:** `reyes_jd` | **Password:** `hashed_pass_4`
+*   **Username:** `garcia_al` | **Password:** `hashed_pass_5`
+*   **Username:** `domingo_ri` | **Password:** `hashed_pass_6` (Faculty)
+*   **Username:** `castillo_em` | **Password:** `hashed_pass_7` (Faculty)
+
+---
+Inactive Account:
+*   **Username:** `noelle_p`
+*   **Password:** `123`
+
+
